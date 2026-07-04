@@ -3,10 +3,10 @@
 _A 3D-printed, tendon-driven robotic hand with a web-based control interface, built as my VCE Systems Engineering Units 3 & 4 major project.
 _
 <!-- Add a hero photo of the finished hand here -->
-<img width="1105" height="1472" alt="image" src="https://github.com/user-attachments/assets/c92d3e7c-4c75-4d9f-a875-8885336ae235" />
+<img width="552.5" height="736.5" alt="image" src="https://github.com/user-attachments/assets/c92d3e7c-4c75-4d9f-a875-8885336ae235" />
 
-<img width="1104" height="1472" alt="image" src="https://github.com/user-attachments/assets/f4bff2b8-6c40-4644-9e1d-474b7d91e793" />
-<img width="1104" height="1473" alt="image" src="https://github.com/user-attachments/assets/f6d21a6c-c0ab-4bb6-903f-9598d62e12fb" />
+<img width="552.5" height="736.5" alt="image" src="https://github.com/user-attachments/assets/f4bff2b8-6c40-4644-9e1d-474b7d91e793" />
+<img width="552.5" height="736.5" alt="image" src="https://github.com/user-attachments/assets/f6d21a6c-c0ab-4bb6-903f-9598d62e12fb" />
 
 
 About the Project
