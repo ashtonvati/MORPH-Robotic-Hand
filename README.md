@@ -20,13 +20,12 @@ MORPH is a 5-fingered robotic hand that's controlled through a web app to perfor
 #### Hardware
 
 
-ESP32-S3 Nano as the main microcontroller, running the web server and driving all the servos
-Adafruit PCA9685, a 16-channel PWM servo driver
-5x 270° servos with analog feedback for tendon contraction in each finger, with the feedback used for the auto-grip function
-4x SG90 servos for lateral finger movement
-Adafruit USB-C PD board for power delivery
-A custom hand-soldered protoboard connecting everything together
-3D printed in PLA+ on a Bambu Lab A1, with fishing line acting as tendons and elastic cord providing return tension
+I used an ESP32-S3 Nano as the main microcontroller, running the web server and driving all the servos. The Adafruit PCA9685 was used as the servo driver board.
+5x 270° servos with analog feedback were used for tendon contraction in each finger, with the feedback from the servos being used for the auto-grip function (which allows the hand to autonomously grip objects of varying sizes).
+4x SG90 servos were used for lateral finger movement
+The Adafruit USB-C PD board was used for power delivery
+A custom hand-soldered protoboard connects everything together.
+The hand is 3D printed in PLA+ on a Bambu Lab A1, with fishing line acting as tendons and elastic cord providing return tension.
 
 
 #### Software
