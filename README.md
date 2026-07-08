@@ -20,7 +20,7 @@ The project was completed for $223.83, well under the allocated $400 budget.
 Tech Used
 Hardware
 
-The system is built around an ESP32-S3 Nano, which hosts the web interface and controls all motor movement. A PCA9685 16-channel PWM driver drives the servos, with five 270° servos providing tendon actuation for each finger and four SG90 servos controlling lateral finger movement. Analog feedback from the finger servos is used to implement the auto-grip functionality.
+The system is built around an ESP32-S3 Nano, which hosts the web interface (allowing the ussr to remotely contol the hand) and controls all motor movement. A PCA9685 16-channel PWM driver drives the servos, with five 270° servos providing tendon actuation for each finger and four SG90 servos controlling lateral finger movement. Analog feedback from the finger servos is used to implement the auto-grip functionality.
 
 Power is supplied through an Adafruit USB-C PD board, while a custom hand-soldered protoboard connects the electronics into a compact package. The hand itself was designed in Fusion 360 and 3D printed in PLA+ on a Bambu Lab A1, using fishing line as tendons and elastic cord to return the fingers to their resting position.
 
@@ -36,4 +36,4 @@ Another challenge was packaging the electronics. Since the design intentionally 
 
 Engineering Portfolio
 
-The complete portfolio documenting the entire engineering cycle of this project is in this repository
+The complete portfolio documenting the entire engineering cycle of this project is in this repository.
