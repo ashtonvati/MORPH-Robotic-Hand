@@ -8,6 +8,7 @@ A 3D-printed, tendon-driven robotic hand with a web-based control interface, dev
 <img width="368.3333333333" height="491" alt="image" src="https://github.com/user-attachments/assets/c92d3e7c-4c75-4d9f-a875-8885336ae235" />
 
 <img width="368.3333333333" height="491" alt="image" src="https://github.com/user-attachments/assets/f4bff2b8-6c40-4644-9e1d-474b7d91e793" />
+<img width="491" height="368.3333333333" alt="image" src="https://github.com/user-attachments/assets/e7ae7592-5699-437a-a4d3-bb61a9c0259e" />
 
 ### About the Project
 
